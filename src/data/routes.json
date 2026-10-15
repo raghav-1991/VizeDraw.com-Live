@@ -1,0 +1,731 @@
+[
+  {
+    "path": "/blog",
+    "bodyClass": "page-journal",
+    "dataPage": "journal",
+    "title": "The VizeDraw Blog | Drawing Review, Revisions and Collaboration",
+    "description": "Practical articles about engineering drawing review, supplier feedback and revision context.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/blog/questions-that-get-answers",
+    "bodyClass": "page-article-questions-that-get-answers",
+    "dataPage": "article-questions-that-get-answers",
+    "title": "Write drawing questions that get useful answers. | VizeDraw",
+    "description": "A location, a revision and a specific request make a review comment easier to act on.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/blog/revision-review-before-handoff",
+    "bodyClass": "page-article-revision-review-before-handoff",
+    "dataPage": "article-revision-review-before-handoff",
+    "title": "What to check when a drawing revision arrives. | VizeDraw",
+    "description": "Review the changed detail, its related notes and the questions carried over from the earlier drawing.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/blog/supplier-review-with-context",
+    "bodyClass": "page-article-supplier-review-with-context",
+    "dataPage": "article-supplier-review-with-context",
+    "title": "A clearer way to collect supplier feedback. | VizeDraw",
+    "description": "Keep external questions close to the drawing and make engineering responses easy to recover.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/company",
+    "bodyClass": "page-company",
+    "dataPage": "company",
+    "title": "About VizeDraw and Zenitude | VizeDraw",
+    "description": "VizeDraw by Zenitude keeps engineering drawing review context connected from design to execution.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/compare/pdm-vs-drawing-collaboration",
+    "bodyClass": "page-comparison",
+    "dataPage": "pdm-vs-drawing-collaboration",
+    "title": "PDM versus drawing collaboration | VizeDraw",
+    "description": "The two categories can overlap, but they solve different primary problems. VizeDraw is designed to complement the systems that author and control engineering information, not replace them as a class.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/contact",
+    "bodyClass": "page-contact",
+    "dataPage": "contact",
+    "title": "Contact VizeDraw | Request a Drawing Workflow Demo",
+    "description": "Contact VizeDraw sales or support and prepare a focused engineering drawing review demo.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/cookie-preferences",
+    "bodyClass": "page-cookies",
+    "dataPage": "cookie-preferences",
+    "title": "Cookie Preferences | VizeDraw",
+    "description": "Manage browser-local cookie preferences for this VizeDraw design-review site.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/drawing-knowledge",
+    "bodyClass": "page-knowledge",
+    "dataPage": "drawing-knowledge",
+    "title": "What Is Drawing Knowledge? | VizeDraw",
+    "description": "Drawing knowledge is the recorded context around a drawing: changes, questions, responses, decisions and next actions.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/enterprise",
+    "bodyClass": "page-enterprise",
+    "dataPage": "enterprise",
+    "title": "Enterprise Drawing Collaboration and Security | VizeDraw",
+    "description": "Evaluate drawing collaboration against your identity, access, retention, data handling and integration requirements.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/features",
+    "bodyClass": "page-toolkit",
+    "dataPage": "features",
+    "title": "Engineering Drawing Review Features | VizeDraw",
+    "description": "Explore PDF drawing review, markups, comparison, revision management, collaboration, search, measurement and AI-assisted review.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/",
+    "bodyClass": "page-home",
+    "dataPage": "home",
+    "title": "Engineering Drawing Collaboration Software | VizeDraw",
+    "description": "Review PDF engineering drawings, compare revisions, add markups and keep decisions connected in one workspace for engineering and manufacturing teams.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/outcomes.css",
+      "/assets/editorial-carousel.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js",
+      "/assets/outcomes.js",
+      "/assets/story-motion.js"
+    ]
+  },
+  {
+    "path": "/manufacturing",
+    "bodyClass": "page-industrial",
+    "dataPage": "manufacturing",
+    "title": "Drawing Collaboration for Manufacturing Teams | VizeDraw",
+    "description": "Keep drawing review context connected across engineering, suppliers, customers, production and quality.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/news",
+    "bodyClass": "page-updates",
+    "dataPage": "updates",
+    "title": "VizeDraw News & Updates",
+    "description": "Website news and new resources from VizeDraw.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/pricing",
+    "bodyClass": "page-plans",
+    "dataPage": "pricing",
+    "title": "VizeDraw Pricing | Free Review, Control $99, Pro $199",
+    "description": "Invited reviewers are free. Control is $99/user/year and Pro is $199/user/year. Estimate team costs, storage and AI credits.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/privacy-notice",
+    "bodyClass": "page-privacy",
+    "dataPage": "privacy-notice",
+    "title": "Privacy Notice | VizeDraw",
+    "description": "Read the published privacy notice for VizeDraw by Zenitude.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/product",
+    "bodyClass": "page-workspace",
+    "dataPage": "product",
+    "title": "Drawing Intelligence Workspace for Engineering | VizeDraw",
+    "description": "A dedicated workspace for PDF drawings, markups, revision review and recorded decisions.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources/ai-engineering-drawing-review",
+    "bodyClass": "page-ai-guide",
+    "dataPage": "ai-engineering-drawing-review",
+    "title": "AI in engineering drawing review | VizeDraw",
+    "description": "AI can help people inspect, compare and retrieve information from drawing packages. It should make the review easier to perform, not hide the source or create false confidence.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources/drawing-readiness-checklist",
+    "bodyClass": "page-checklist",
+    "dataPage": "drawing-readiness-checklist",
+    "title": "Manufacturing drawing readiness checklist | VizeDraw",
+    "description": "Use this checklist before a supplier review, customer submission, production handoff, inspection activity or another defined stage. It checks the review context. It does not certify engineering correctness or authorize work by itself.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources/drawing-review-example",
+    "bodyClass": "page-example",
+    "dataPage": "drawing-review-example",
+    "title": "Worked Drawing Review Example | VizeDraw",
+    "description": "Follow one fictional supplier question from DEMO-104 Revision A to a recorded response, Revision B and the next action.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources/engineering-drawing-revision-control",
+    "bodyClass": "page-revision-guide",
+    "dataPage": "engineering-drawing-revision-control",
+    "title": "Engineering Drawing Revision Control Guide | VizeDraw",
+    "description": "A practical guide to drawing revision identity, comparison, review history and release authority.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources",
+    "bodyClass": "page-library",
+    "dataPage": "resources",
+    "title": "Engineering Drawing Review Guides and Resources | VizeDraw",
+    "description": "Find drawing readiness checklists, revision control guides, supplier review guidance and a worked drawing review example.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/resources/supplier-drawing-review-guide",
+    "bodyClass": "page-supplier-guide",
+    "dataPage": "supplier-drawing-review-guide",
+    "title": "Supplier drawing review guide | VizeDraw",
+    "description": "A supplier clarification should identify the source detail, the response required and the drawing revision under review. The answer should remain available to the people who need it next.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/terms-of-use",
+    "bodyClass": "page-terms",
+    "dataPage": "terms-of-use",
+    "title": "Terms of Use | VizeDraw",
+    "description": "Read the published terms of use for VizeDraw by Zenitude.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/use-cases/drawing-revision-review",
+    "bodyClass": "page-revisions",
+    "dataPage": "drawing-revision-review",
+    "title": "Drawing revision review | VizeDraw",
+    "description": "Drawing comparison can reveal a difference. The team still needs to understand its effect, identify who must respond and decide whether an earlier answer remains valid.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/use-cases/engineering-drawing-review",
+    "bodyClass": "page-engineering",
+    "dataPage": "engineering-drawing-review",
+    "title": "Engineering drawing review | VizeDraw",
+    "description": "VizeDraw helps engineering teams review drawing packages, collect specific feedback and record the response in a workspace organized around the source drawing.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/use-cases/external-drawing-review",
+    "bodyClass": "page-external",
+    "dataPage": "external-drawing-review",
+    "title": "Supplier and customer review | VizeDraw",
+    "description": "VizeDraw helps teams review drawings with suppliers and customers without separating the package, question, response and outcome across unrelated messages.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/use-cases",
+    "bodyClass": "page-solutions",
+    "dataPage": "use-cases",
+    "title": "Engineering Drawing Review Use Cases | VizeDraw",
+    "description": "Explore engineering review, revision comparison, supplier and customer review, and production and quality handoffs.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  },
+  {
+    "path": "/use-cases/production-quality-handoff",
+    "bodyClass": "page-handoff",
+    "dataPage": "production-quality-handoff",
+    "title": "Production and quality handoff | VizeDraw",
+    "description": "VizeDraw helps production and quality reviewers see the applicable drawing, relevant clarification, open issue and recorded outcome before the next stage begins.",
+    "styles": [
+      "/assets/site.css",
+      "/assets/redesign.css",
+      "/assets/drawing.css",
+      "/assets/components.css",
+      "/assets/experience.css",
+      "/assets/brand.css",
+      "/assets/workflows.css",
+      "/assets/unique.css",
+      "/assets/site-polish.css"
+    ],
+    "scripts": [
+      "/assets/site.js",
+      "/assets/experience.js",
+      "/assets/brand.js",
+      "/assets/workflows.js",
+      "/assets/unique.js"
+    ]
+  }
+]

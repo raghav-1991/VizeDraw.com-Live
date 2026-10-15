@@ -1,0 +1,44 @@
+[
+  {
+    "story": "revision",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 531414,
+    "sha256": "66728362142f85ce573c15a416cd5741da488a2097eb206f1d10d00ff61fa719"
+  },
+  {
+    "story": "detail",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 435616,
+    "sha256": "8dd2737b1e39afb38afd8d287bceed06f1bac4e5c6da3e7e837b8a4e994ce4ff"
+  },
+  {
+    "story": "decision",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 408810,
+    "sha256": "1c853e0ba71f4e59214cafb2b79e18135594f925450124dac22d8e9894cef0cb"
+  },
+  {
+    "story": "supplier",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 601693,
+    "sha256": "aeab5c092527ba18fd9cc0144a7cfe65545605a69a3d0f98d0b3b6d59e173af5"
+  },
+  {
+    "story": "repeat",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 643475,
+    "sha256": "537c76b3314b0bb28eca5fd2594839658be14d150761055c2ffb2d195a6bfcb1"
+  },
+  {
+    "story": "handoff",
+    "duration": 8,
+    "frames": 240,
+    "bytes": 577243,
+    "sha256": "8709deaa9a73b1ad4d50c6d45f49734583cc50148c21b0dc92d02c96dba3eaf7"
+  }
+]

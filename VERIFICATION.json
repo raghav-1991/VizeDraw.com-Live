@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-15",
+  "framework": "Next.js 16.4.1",
+  "react": "19.3.1",
+  "router": "Pages Router",
+  "language": "TypeScript / TSX",
+  "content_routes": 29,
+  "typecheck": "passed",
+  "production_build": "passed",
+  "export_verification": "passed",
+  "unchanged_runtime_assets": 182,
+  "browser_checks": [
+    "No hydration errors or console warnings on tested routes",
+    "Desktop dropdown menu opens/closes",
+    "Scenario selection and eight-second video playback",
+    "Pricing calculator updates $1,392 to $1,491 when Control users increase from 2 to 3",
+    "Mobile pricing/contact: no horizontal overflow; navigation opens",
+    "Contact contains sales/support only",
+    "Resource search filters to three revision-related entries"
+  ],
+  "production_configuration": "Set final origin and enable indexing explicitly; contact backend and social URLs remain team configuration."
+}
